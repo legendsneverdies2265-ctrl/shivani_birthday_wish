@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday, Shivani!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Happy Birthday!</h1>
+        <div class="subtitle">A special day for a special friend.</div>
+    </header>
+
+    <div class="message-container">
+        <p>Today is...</p>
+        <p>as beautiful as other days</p>
+        <p>but looking at you, *I realize*...</p>
+        <p>another year has simply made you brighter</p>
+        <p>in a way only you can be</p>
+
+        <p class="highlight">*However*</p>
+
+        <p>Do you know..?</p>
+        <p>today is just special</p>
+        <p>so special because it's yours</p>
+        <p>that's why</p>
+
+        <p class="highlight">Let's make it...</p>
+        <p>the best celebration ever</p>
+        <p>and let me share...</p>
+        <p>a piece of happiness that you deserve</p>
+
+        <p>I made all this...</p>
+        <p>as a small present, just to say thank you</p>
+        <p>thanks for being the friend you are</p>
+        <p>thanks for the laughs and the memories we made</p>
+        <p>thanks for everything, *Shivani*</p>
+
+        <p class="highlight">I wish you all the best</p>
+        <p>May your life be at ease</p>
+        <p>May all your dreams come true</p>
+        <p>Remember</p>
+        <p>your strength</p>
+
+        <p>you live as a free spirit...</p>
+        <p>always inspiring those around you</p>
+
+        <p class="final-wish">I Am Always Here For You</p>
+        <p>and this year will be better.</p>
+
+        <p class="signature">a very happy birthday *Shivani*</p>
+        </div>
+
+</body>
+</html>
